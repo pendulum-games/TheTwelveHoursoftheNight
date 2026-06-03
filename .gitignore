@@ -5,6 +5,7 @@ AppData/
 *.log
 .DS_Store
 Thumbs.db
+*.env
 
 # Build outputs
 dist/
